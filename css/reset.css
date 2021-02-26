@@ -33,14 +33,14 @@ a,button{
 	transition: all 0.3s ease;
 }
 img{
-    max-width: 100%;
+    max-width: 280%;
 	display:block;
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
 }
-.logo {max-width: 280%;
-
+.logo {
+	max-width: 280%;
 }
 button,a,
 a:hover,
