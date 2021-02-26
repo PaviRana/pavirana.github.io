@@ -33,7 +33,7 @@ a,button{
 	transition: all 0.3s ease;
 }
 img{
-    max-width: 300%;
+    max-width: 280%;
 	display:block;
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
