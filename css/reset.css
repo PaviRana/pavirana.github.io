@@ -39,7 +39,7 @@ img{
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
 }
-.logo {
+#header .logo{width: 300px; height: 300px; position: absolute; left: 50%;
 	
 }
 button,a,
