@@ -9,9 +9,13 @@
 #header{
 	background:rgba(0, 0, 0, 0.70);
 	padding:10px 0;
+	width: 100%;
+	position: relative;
 }
 #header .logo{
 	padding-top:0px;
+}
+#header .logo{width: 300px; height: 300px; position: absolute; left: 50%;
 }
 #header .nav {
 	display: none;
@@ -90,7 +94,7 @@
 #personal-area.slider .personal-text.right{
 	padding: 0 0 0 50px;
 }
-#about-me .single-image{
+#about-me .single-profileage{
 	display:none;
 }
 #portfolio .portfolio-nav ul li {
