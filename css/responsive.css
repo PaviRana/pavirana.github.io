@@ -15,8 +15,7 @@
 #header .logo{
 	padding-top:0px;
 }
-#header .logo{width: 300px; height: 300px; position: absolute; left: 50%;
-}
+#header .logo{width: 300px; height: 300px;
 #header .nav {
 	display: none;
 }	#personal-area.particle .personal-text {
@@ -261,7 +260,7 @@
 	background: #fff;
 }
 #about-me .single-image{
-	display:
+	display:none;
 }
 #about-me .tabs-main {
 	margin-top: 0;
