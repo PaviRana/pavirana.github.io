@@ -9,13 +9,10 @@
 #header{
 	background:rgba(0, 0, 0, 0.70);
 	padding:10px 0;
-	width: 100%;
-	position: relative;
 }
 #header .logo{
 	padding-top:0px;
 }
-#header .logo{width: 300px; height: 300px;
 #header .nav {
 	display: none;
 }	#personal-area.particle .personal-text {
@@ -31,7 +28,7 @@
 #header .slicknav_btn {
 	background: transparent;
 	padding: 6px;
-	margin: 25px 3px 0px 0px;
+	margin: -31px 0px 0 0px;
 }
 #header .slicknav_menutxt {
 	text-shadow:none;
@@ -93,7 +90,7 @@
 #personal-area.slider .personal-text.right{
 	padding: 0 0 0 50px;
 }
-#about-me .single-profileage{
+#about-me .single-image{
 	display:none;
 }
 #portfolio .portfolio-nav ul li {
@@ -159,7 +156,7 @@
 #header .slicknav_btn {
 	background: transparent;
 	padding: 6px;
-	margin: 25px 3px 0 0px;
+	margin: -31px 0px 0 0px;
 }
 #header .slicknav_menutxt {
 	text-shadow:none;
