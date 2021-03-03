@@ -261,7 +261,7 @@
 	background: #fff;
 }
 #about-me .single-image{
-	display:inside;
+	display:none;
 }
 #about-me .tabs-main {
 	margin-top: 0;
